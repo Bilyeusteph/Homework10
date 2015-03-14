@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>smallbubble.png</file>
+        <file>background.png</file>
+        <file>regulardrop.png</file>
+        <file>soapbar.png</file>
+        <file>bigbubble.png</file>
+        <file>bonusDrop.png</file>
+        <file>evilSoap.png</file>
+        <file>BigBonusDrop.png</file>
+        <file>BigEvilSoap.png</file>
+        <file>BigRegDrop.png</file>
+        <file>BigRegSoap.png</file>
+        <file>DeadBoy.png</file>
+        <file>FreeBoy.png</file>
+        <file>player.png</file>
+    </qresource>
+</RCC>
